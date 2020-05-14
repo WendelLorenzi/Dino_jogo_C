@@ -1,9 +1,9 @@
 # Projeto Jogo Dino
-Projeto apresentado na disciplina de algoritmos 2
-Jogo inplementado em linguagem C sem interface grafica, apenas o print com cmd padrão
-A pontuação do jogo (score) que é mostrada na parte de cima da tela, tem como base de incremento o pulo do personagem
+Projeto apresentado na disciplina de algoritmos 2. <br>
+Jogo inplementado em linguagem C, ou seja, interface grafica limitada, apenas o print com cmd padrão. <br>
+A pontuação do jogo (score) é mostrada na parte de cima da tela e tem como base de incremento o pulo do personagem
 
-## Funçoes:
+## Funçoes utilizadas/produzidas:
 <ul>
   <li>Kbhit()  Usado para verificar se tem alguma coisa em buffer de teclado, se sim o mesmo retorna 1</li>
   <li>System(“mode com: lines=29 cols=82”);  Faz com que a tela do cmd fique com proporção de 29 linhas por 82 colunas</li>
